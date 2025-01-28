@@ -2,6 +2,6 @@
 
 * аналоги методов:*
     - slice()
-    -idexOf()
-    -includes()
+    - idexOf()
+    - includes()
 
